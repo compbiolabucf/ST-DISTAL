@@ -39,3 +39,12 @@ An evaluation script is provided:
 ```
 python eval.py
 ```
+
+## Experiment on real Human Heart ST dataset
+First download the dataset from https://drive.google.com/file/d/10UKIxbjEHPIFUk7Z623hNeRMR1jSINeG/view?usp=sharing. Extract it and run : 
+ ```
+mkdir output
+python run_real.py
+```
+
+
