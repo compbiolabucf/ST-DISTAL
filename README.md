@@ -9,7 +9,7 @@ This repository contains the implementation of **ST-DISTAL**, a framework for ac
 Implementation of the dual-branch GCN and the training logic. Code sections are annotated with corresponding equation numbers from the paper for clarity.
 
 `./data/`
-Contains a representative dataset.
+Contains the seqFISH+ dataset.
 
 `./output/`
 Output directory for predictions and results.
