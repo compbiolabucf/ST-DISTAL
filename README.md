@@ -47,4 +47,5 @@ mkdir output
 python run_real.py
 ```
 
+Other two datasets -  seqFISH and MERFISH can be found here respectively : https://drive.google.com/file/d/14wih18S_diX2US6riiW_qW5aaCh1BP8D/view?usp=sharing and https://drive.google.com/file/d/1j6yCniU8rNajZwUgkH7voqEW7vXFhr3g/view?usp=sharing.
 
