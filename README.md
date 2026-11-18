@@ -34,7 +34,7 @@ python run.py
 
 The model output will be saved in ./output/predict_result.csv.
 
-Each row corresponds to a spatial spot; columns represent cell types; values indicate predicted cell-type proportions.
+Each row corresponds to a spatial spot; columns represent cell types; where values indicate predicted cell-type proportions.
 
 **3. Evaluate Results**
 
