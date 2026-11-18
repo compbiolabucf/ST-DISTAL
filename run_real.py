@@ -6,6 +6,8 @@ warnings.filterwarnings("ignore")
 sys.path.append(os.getcwd())
 from STDISTAL.STDISTAL import run_STDISTAL
 
+# experiment on real ST dataset
+
 paths = { # real 
     
     'sc_path': './real/sc_data',
