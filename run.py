@@ -29,6 +29,8 @@ paths = { # seqFISH+
 # }
 
 
+
+ # set parameters from here
 find_marker_genes_paras = {
     'preprocess': True,
     'normalize': True,
