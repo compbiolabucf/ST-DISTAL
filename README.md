@@ -4,7 +4,7 @@
 This repository contains the implementation of **ST-DISTAL**, a framework for accurate and biologically meaningful cell-type deconvolution in spatial transcriptomics data.
 
 ### Model Architecture
-![Model Architecture](fig.png)
+![Model Architecture](fig_model.png)
 
 ## Repository Structure
 
