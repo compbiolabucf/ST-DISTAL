@@ -1,5 +1,5 @@
 
-### ST-DISTAL : Learning Spatial Transcriptomics Deconvolution via Spectral-Spatial Dual-Branch GCNs with Distributional Alignment
+### Spatial–Spectral Graph Learning with Distributional Alignment for Spatial Transcriptomics Deconvolution
 
 This repository contains the implementation of **ST-DISTAL**, a framework for accurate and biologically meaningful cell-type deconvolution in spatial transcriptomics data.
 
